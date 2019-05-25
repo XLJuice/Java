@@ -21,6 +21,7 @@ public class Compilation extends Book {
 
         System.out.println("This book is " + book1.getTitle() + "it author " + book1.getAuthor() + "it amout of Pages" + book1.getPages());
         System.out.println("This book is " + book2.getTitle() + "it author " + book2.getAuthor() + "it amout of Pages" + book2.getPages());
+        System.out.println("This compilation is " + compilation1.getTitle() + "it author " + compilation1.getAuthor() + "it amout of Pages" + compilation1.getPages() + "it contain" + compilation1.getAmountofPieces() + "stories");
 
     }
 
